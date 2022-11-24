@@ -1,4 +1,4 @@
----
+Smarthing app 
 title: "Native App Integration"
 sidebar_label: "Introduction"
 ---
